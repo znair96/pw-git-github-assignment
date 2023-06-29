@@ -4,6 +4,7 @@
   box-sizing: border-box;
   /* height: 100vh; */
 }
+/* Assignment 1 css */
 .login-page {
   background: #f1f1f1;
   display: flex;
@@ -68,3 +69,4 @@ input:focus-within {
   margin-top: 0px;
   cursor: pointer;
 }
+/* Assignment 1 css */
