@@ -70,3 +70,59 @@ input:focus-within {
   cursor: pointer;
 }
 /* Assignment 1 css */
+/* Assignment 2 css */
+.signup-page {
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+}
+.signup-container {
+  background-color: #fff;
+  width: 28%;
+  padding: 20px;
+  border-radius: 6px;
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+.signup-container h2 {
+  text-align: center;
+  color: #333333;
+  margin-bottom: 28px;
+  font-weight: 700;
+}
+.signup-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 16px;
+}
+.signup-field input {
+  height: 28px;
+  padding-left: 8px;
+}
+.signup-field select {
+  height: 28px;
+}
+.signup-field label {
+  color: #333333;
+  font-size: 14px;
+}
+.signup-field select:focus-within {
+  outline: 0;
+}
+.signup-button {
+  width: 100%;
+}
+.signup-button button {
+  background-color: #000000;
+  border: 0;
+  color: #fff;
+  width: 100%;
+  padding: 8px 0;
+  margin-top: 12px;
+  cursor: pointer;
+}
+/* Assignment 2 css */
